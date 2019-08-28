@@ -1,0 +1,11 @@
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\bvail\Documents\GitHub\MS-dotnet-tutorials-and-practice\dotnet-tut_hello-world-in-10-min\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
